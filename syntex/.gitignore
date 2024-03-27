@@ -135,8 +135,6 @@ gatys/plot_curves.py
 # Local
 pkgs_dirs/
 env/
-*.png
-*.jpg
 *.npz
 train_log/
 test_log/
